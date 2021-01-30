@@ -5,6 +5,9 @@ This is a spider to get artworks from Pixiv recommended images,inspired by [Pixi
 * Bypass SNI
 * Filter Support
 
+## Usage
+`php Main.php` 
+
 ## Example config
 `hosts.json`:
 ```json
