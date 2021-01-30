@@ -1,0 +1,16 @@
+{
+    "name": "zapic/pixiv-recommend-spider",
+    "type": "project",
+    "description": "A spider to get artworks from Pixiv recommended images",
+    "require": {
+        "kokororin/pixiv-api-php": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kawaii Zapic",
+            "email": "kawaiizapic@zapic.moe"
+        }
+    ],
+    "minimum-stability": "dev"
+}

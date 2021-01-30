@@ -1,0 +1,19 @@
+{
+    "SavePath": "./background",
+    "MaxRetry": 10,
+    "MaxCountPreDownload": 10,
+    "RemoveOldArtworks": false,
+    "filter": {
+        "minViewed": 0,
+        "minMarked": 0,
+        "allowOrientation": ["landscape","portrait"],
+        "minWidth": 0,
+        "minHeight": 0,
+        "allowType": ["illust","manga"],
+        "allowSFWLevel": ["SFW","BitNSFW","VeryNSFW","R18"],
+        "ignoreMarked": false,
+        "ignoreFollowedUser": false,
+        "blockTags": [],
+        "blockUsers": []
+    }
+}
